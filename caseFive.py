@@ -1,6 +1,14 @@
-"""Name: Mason B
+"""
+Name: Mason B
 Date: 10/20/22
-Desc: Sales management attendance; companay name, number of registers, cost per teir"""
+Desc: Sales management attendance; companay name, number of registers, cost per teir
+"""
+
+"""
+Test Cases
+attend_count = a,!,-1,0,1,2,3,4,6,9,10,15
+compnay_name = alphanumeric input, alphabetic inputs, numeric input
+"""
 
 # dec val
 company_name = str()
